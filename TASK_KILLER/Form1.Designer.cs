@@ -50,7 +50,7 @@
             this.getAppBtn.Name = "getAppBtn";
             this.getAppBtn.Size = new System.Drawing.Size(173, 33);
             this.getAppBtn.TabIndex = 1;
-            this.getAppBtn.Text = "GetApp";
+            this.getAppBtn.Text = "Get App(s)";
             this.getAppBtn.UseVisualStyleBackColor = true;
             this.getAppBtn.Click += new System.EventHandler(this.getAppBtn_Click);
             // 

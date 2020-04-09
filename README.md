@@ -31,3 +31,4 @@ This is an application to display and kill task families.
 ### HISTORY ###
 
 * 20200408 - Initial repository
+* 20200409 - Cleaned up messages.
