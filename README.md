@@ -28,6 +28,10 @@ This is an application to display and kill task families.
 *  AUTO-CONVERTING CRLF line endings into LF
    $ git config --global core.autocrlf true
    
+### GIT REPOSITORY TAGGING ###
+
+* git tag -a GA_RELEASE_1_00_0_53_001 -m "GA_RELEASE_1_00_0_53_001"
+
 ### HISTORY ###
 
 * 20200408 - Initial repository
