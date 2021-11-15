@@ -15,6 +15,7 @@
 
 # Ignore db files
 /.vs
+/.suo
 
 # Ignore build files
 bin/
