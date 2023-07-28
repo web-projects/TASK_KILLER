@@ -37,3 +37,4 @@ This is an application to display and kill task families.
 * 20200408 - Initial repository
 * 20200409 - Cleaned up messages
 * 20211105 - Reconfigured project
+* 20230728 - Added option to unmark all items in the list.
